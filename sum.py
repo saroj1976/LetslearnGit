@@ -3,4 +3,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> x=3
 >>> y=4
 >>> 
->>> print ("sum is :" x+y)
+>>> print ("sum is" :x+y)
